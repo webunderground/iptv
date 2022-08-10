@@ -60,7 +60,7 @@ https://events3-crtvg.flumotion.com/playlist.m3u8
 
 
 
-#EXTINF:********noticias******
+#EXTINF:noticias
 #EXTINF:-1,CGTN  (Opt-1) www.achoAPPS.com
 http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" tvg-url="" group-title="",Euronews
@@ -78,7 +78,7 @@ https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8
 
 
-#EXTINF:****canales Infantiles***
+#EXTINF:canales Infantiles
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canalipe/picture?width=200&height=200" group-title="Int. AmÃ©rica" tvg-name="Canal IPe PerÃº",Canal IPe PerÃº
 https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-id="ChicosIPe.pe" tvg-name="Chicos IPe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FI1Hd4E.png" group-title="Family",Chicos IPe [Not 24/7]
@@ -90,7 +90,7 @@ https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?Playlist
 #EXTINF:-1,TVG Infantil www.achoAPPS.com
 http://infantil-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
 
-#EXTINF:****canales entrenimineto***
+#EXTINF:canales entrenimineto
 #EXTINF:-1 tvg-id="Vallevision.do" tvg-name="Vallevision" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://www.vallevision.com.do/images/vallevision.png" group-title="",Vallevision (720p)
 http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-name="Telefe Rosario" tvg-country="AR" tvg-language="Spanish" tvg-logo="" group-title="Local",Telefe Rosario (720p)
@@ -162,7 +162,7 @@ http://200.115.193.177/live/26hd-720/playlist.m3u8
 
 
 
-#EXTINF:****canales internacionales***
+#EXTINF:canales internacionales
 
 #EXTINF:-1 tvg-id="AtlantaChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/hSYez3V.png" group-title="Local",Atlanta Channel (720p)
 https://5b0f5374bdf0c.streamlock.net:444/LiveTV/ATLHD/playlist.m3u8
@@ -175,7 +175,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playli
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/WrYEcXp.png" tvg-country="US" tvg-url="" group-title="",Young Hollywood
 https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/high/c.m3u8
 
-#EXTINF:****canales de tv de musica***
+#EXTINF:canales de tv de musica
 #EXTINF:-1 tvg-id="106791" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Amordiscos.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://amordiscostv.com/wp-content/uploads/2021/02/thumbnail_Logo-Amordiscos-600x600-alpha-150x150.png" group-title="Music",Amordiscos
