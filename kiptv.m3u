@@ -1,4 +1,4 @@
-#EXTINF:canal cine
+#EXTINF:canal colombia
 #EXTINF:-1 tvg-id="SenalColombia.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png" group-title="General",Señal Colombia (1080p)
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalCapital.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Hlrdeds.png" group-title="General",Canal Capital (720p) [Not 24/7]
@@ -7,6 +7,11 @@ https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1 tvg-id="CanalInstitucionalTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/canal-institucional-tv-2599.jpg" group-title="General",Canal Institucional TV (720p)
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://i.imgur.com/AZOTbvH.png" group-title="Undefined",Cali TV (Santiago de Cali | Valle del Cauca) (540p) [Not 24/7]
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 tvg-id="CTV.co" tvg-logo="https://ctvbarranquilla.com/wp-content/uploads/2022/02/cropped-logo-web.png" group-title="Undefined",CTV (Barranquilla | Atlántico) (1080p)
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
+#EXTINF:peliculas
 #EXTINF:-1 tvg-id="106774" tvg-name="Canal Vision Dorada" tvg-logo="https://lh3.googleusercontent.com/-55wEeQJPgtI/XzghkD0eAQI/AAAAAAAA4YA/unYz3WCSLecJ4PVX-ou_4RKLzST4hygswCK8BGAsYHg/s0/2020-08-15.jpg", Canal Vision Dorada
 https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
 #EXTINF:-1,Wow TV www.achoAPPS.com
@@ -17,7 +22,8 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="80661" tvg-name="Canal Cinco Tigre" tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png", Canal Cinco Tigre
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8?PlaylistM3UCL
-
+#EXTINF:-1 tvg-id="VivaNicaraguaCanal13.ni" tvg-logo="https://i.imgur.com/ByZwNXQ.png" group-title="Undefined",Viva Nicaragua Canal 13 (480p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vivanicaragua13
 #EXTINF:-1 tvg-id="ColosalTV.co" tvg-name="Colosal TV" tvg-country="CO" tvg-language="" tvg-logo="" group-title="",Colosal TV (720p)
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg" tvg-url="" group-title="",TVS (540p)
@@ -26,6 +32,8 @@ http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
 http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="CSTV" tvg-logo="https://www.m3u.cl/logo/47_CSTV.png" group-title="Lo Mas Visto", CSTV * | CL
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="TVUSucre.bo" tvg-logo="https://tvusucre.com/images/Cabeza-logo.png" group-title="Undefined",TVU Sucre
+https://solo.disfrutaenlared.com:1936/tuch/ngrp:tuch_all/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="LancelotTelevision.es" tvg-name="Lancelot TelevisiÃ³n" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/288850935035196/picture?width=320&height=320" group-title="",Lancelot TelevisiÃ³n (360p)
@@ -42,6 +50,19 @@ http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
 #EXTINF:-1 tvg-id="Microvision.do" tvg-name="Microvision" tvg-country="DO" tvg-language="Spanish" tvg-logo="http://microvision.com.do/wp-content/uploads/Microvision_567-150.png" group-title="",Microvision
 http://190.103.183.24:1935/live/MicroHD/chunklist.m3u8
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/bs/rev.bs.epg.xml,https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/cl/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/co/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/co/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/co/siba.com.co.epg.xml,https://iptv-org.github.io/epg/guides/do/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/ec/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml,https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.epg.xml,https://iptv-org.github.io/epg/guides/gt/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/gt/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/hn/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/hn/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/mx/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/ni/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/pa/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/pe/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/pe/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml,https://iptv-org.github.io/epg/guides/py/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/sv/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/tr/dsmart.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
+#EXTINF:-1 tvg-id="5RTV.ar" tvg-logo="https://i.imgur.com/4o9hQRI.png" group-title="Undefined",5RTv (720p) [Not 24/7]
+https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+#EXTINF:-1 tvg-id="5TV.ar" tvg-logo="https://i.imgur.com/kujnLsO.png" group-title="Undefined",5TV (Corrientes) (480p) [Not 24/7]
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="7LaRioja.es" tvg-logo="https://www.7rioja.tv/entorno/Cabeceras/Cabecera7RIOJA.png" group-title="Undefined",7 La Rioja (1080p) [Not 24/7]
+https://pc-la7delarioja-hls.flumotion.com/playlist.m3u8
+#
+
+
+
+
+
 #EXTINF:****canales deportes***
 
 
@@ -224,3 +245,9 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 https://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8
 #EXTINF:-1,TVG Musigal www.achoAPPS.com
 http://musigal-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
+#EXTINF:radio
+#EXTINF:-1 tvg-id="88Stereo.cr" tvg-logo="https://hosttec.online/wp-content/uploads/2020/03/img1920.jpg" group-title="Music",88 Stereo (720p) [Not 24/7]
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 tvg-id="ADNTV.cl" tvg-logo="https://i.imgur.com/AVfTwNw.png" group-title="News",ADN Radio (1080p)
+https://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8
+
