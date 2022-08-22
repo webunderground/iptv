@@ -9,7 +9,8 @@ https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1 tvg-id="CanalInstitucionalTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/canal-institucional-tv-2599.jpg" group-title="General",Canal Institucional TV (720p)
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
-
+#EXTINF:-1 tvg-id="CanalPyC.co" tvg-logo="https://canalpyc.com/wp-content/uploads/2020/03/logo_blanco1-e1583948519322.png" group-title="Undefined",Canal PyC [Not 24/7]
+http://66.240.236.26:1935/canalpycvivo/canalpycvivo/canalpycvivo/playlist.m3u8
 #EXTINF:-1 tvg-id="Cablenoticias.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/512px-Cable_Noticias_logo.svg.png" group-title="News",Cablenoticias (Bogotà | Cundinamarca) (1080p)
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Canal Caracol Ahora (720p)
@@ -50,7 +51,8 @@ https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="RedPlus.co" tvg-logo="https://i.imgur.com/2xUDsHJ.jpg" group-title="Undefined",Red+
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
-
+#EXTINF:-1 tvg-id="CTC.pe" tvg-logo="https://i.imgur.com/WKLRHEC.png" group-title="Undefined",CTC (720p)
+http://190.108.83.142:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="LancelotTelevision.es" tvg-name="Lancelot TelevisiÃ³n" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/288850935035196/picture?width=320&height=320" group-title="",Lancelot TelevisiÃ³n (360p)
 http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8
 #EXTINF:-1 tvg-id="208" tvg-name="CINE.AR" tvg-logo="https://www.m3u.cl/logo/208_CINE_AR.png", CINE.AR * | AR
@@ -74,7 +76,18 @@ http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 https://pc-la7delarioja-hls.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="PopularTVMelilla.es" tvg-logo="https://i.imgur.com/hwlTrtF.png" group-title="Undefined",Popular TV Melilla (720p) [Not 24/7]
 http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8
-
+#EXTINF:-1 tvg-id="CanalMalagaRTV.es" tvg-logo="https://i.imgur.com/BXmmroM.jpg" group-title="Undefined",Canal Málaga RTV (720p) [Not 24/7]
+https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="CincoTV.ar" tvg-logo="https://i.pinimg.com/originals/2d/18/54/2d185451c3cc188c39add960b94c6844.png" group-title="Undefined",Cinco TV (480p) [Not 24/7]
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+#EXTINF:-1 tvg-id="CTN.ve" tvg-logo="https://www.caracastelevisionnetwork.com/images/presets/preset1/logo.png" group-title="Undefined",CTN
+https://5bf8041cb3fed.streamlock.net/CTNTV/CTNTV/playlist.m3u8
+#EXTINF:-1 tvg-id="DoctorWho.us" tvg-logo="https://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG.png" group-title="Undefined",Doctor Who (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/512px-Canal_Golden_logo.svg.png" group-title="Undefined",Golden TV (240p) [Not 24/7]
+https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
+#EXTINF:-1 tvg-id="ITVPatagonia.cl" tvg-logo="https://i.imgur.com/9sKGsmt.png" group-title="Undefined",ITV Patagonia (720p) [Not 24/7]
+https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
 
 
 
@@ -86,7 +99,8 @@ http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 #EXTINF:-1 ,EITB tvg-logo=”https://graph.facebook.com/eitb/picture?width=200&height=200”
 https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-
+#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Sports",DirecTV Sports (480p)
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BU8zXRW.jpg" tvg-url="" group-title="Local",EITB (360p)
 https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
